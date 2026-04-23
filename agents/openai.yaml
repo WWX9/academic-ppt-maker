@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic PPT Maker"
+  short_description: "Distill academic talk logic into strong slide decks."
+  default_prompt: "Use $academic-ppt-maker to turn my paper, abstract, or notes into a strong academic conference PPT."
