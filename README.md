@@ -31,12 +31,8 @@ Use this skill when you want Codex to:
 This version was distilled from a local corpus of conference slides, with special emphasis on:
 
 - logic-first references such as the `Du Siqi` deck, the `accessible map research` deck, the `Cai Jiannan` deck, and the `Liu Baoju` deck
-- appearance priors from Zhou Liang and selected decks from Peking University, Wuhan University, and Tsinghua-linked authors
+- appearance priors from selected decks from Peking University, Wuhan University, and Tsinghua-linked authors
 
-The skill explicitly treats:
-
-- `Zhou Liang` as a high-priority **visual** reference
-- `Du Siqi / Cai Jiannan / Liu Baoju` style decks as stronger **logic** references
 
 If logic and appearance conflict, logic wins.
 
@@ -87,9 +83,7 @@ Use $academic-ppt-maker to learn from these 5 PPTX files, then design a new acad
 Use $academic-ppt-maker to review my current PPT and rewrite the title chain, research question, method flow, and conclusion page.
 ```
 
-```text
-Use $academic-ppt-maker and prioritize Zhou Liang's appearance style, but keep the report logic closer to the Du Siqi deck.
-```
+
 
 ## Workflow Summary
 
